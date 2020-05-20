@@ -1,7 +1,6 @@
-# Aprendendo NodeJs 🚀📗💪
-## NodeBR
+# Aprendendo NodeJs 📗
 
-##### Fases:
+#####  🚀 Fases:
 ###### ✅ 1° Aprender um pouco como o npm funciona e saber gerencialo de forma inteligente.
 ###### ✅ 2° Utilizando o node enxergar as diferenças entre promisse e callback.
 ###### ✅ 3° Utilizando o event do node para manipular dados de entrada do usuario.
