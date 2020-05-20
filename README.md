@@ -1,11 +1,11 @@
 # Aprendendo NodeJs 📗
 
 #####  🚀 Fases:
-###### ✅ 1° Aprender um pouco como o npm funciona e saber gerencialo de forma inteligente.
-###### ✅ 2° Utilizando o node enxergar as diferenças entre promisse e callback.
-###### ✅ 3° Utilizando o event do node para manipular dados de entrada do usuario.
-###### ✅ 4° Trabalhando com array e manipulação de listas.
-###### ✅ 5° Conhecendo o Mocha e aplicando com tests automatizados
-###### ✅ 6° Cli trabalhando com node em linha de comandos no console.
+###### ✅ 1° Aprendendo um pouco sobre npm e saber gerencia-lo de forma inteligente.
+###### ✅ 2° Utilizando node e enxergando as diferenças entre promisses e callbacks.
+###### ✅ 3° Utilizando event do node para manipular dados de entrada do usuario.
+###### ✅ 4° Trabalhando com array e manipulações de listas.
+###### ✅ 5° Conhecendo Mocha e aplicando com tests automatizados
+###### ✅ 6° Trabalhando com Cli no node.
 
 ![Node.JS](https://github.com/lourencovitor/aprendendoNodeJs/blob/master/nodejs-dribbble_1.gif)
