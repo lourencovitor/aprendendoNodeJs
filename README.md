@@ -1,5 +1,7 @@
 # Aprendendo NodeJs 📗
 
+Aprendendo node na pratica 🚀📗
+
 #####  🚀 Fases:
 ###### ✅ 1° Aprendendo um pouco sobre npm e saber gerencia-lo de forma inteligente.
 ###### ✅ 2° Utilizando node e enxergando as diferenças entre promisses e callbacks.
